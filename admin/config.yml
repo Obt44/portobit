@@ -1,0 +1,219 @@
+backend:
+  branch: main
+  name: github
+  repo: Obt44/portobit
+collections:
+- files:
+  - fields:
+    - label: Nama
+      name: name
+      widget: string
+    - label: Headline
+      name: headline
+      widget: string
+    - label: Lokasi
+      name: location
+      required: false
+      widget: string
+    - label: Email
+      name: email
+      widget: string
+    - label: Link GitHub
+      name: github
+      required: false
+      widget: string
+    - label: Link LinkedIn
+      name: linkedin
+      required: false
+      widget: string
+    - label: Foto
+      name: photo
+      required: false
+      widget: image
+    - label: Profil singkat
+      name: summary
+      widget: text
+    - fields:
+      - label: Judul
+        name: title
+        widget: string
+      - label: Peran / Instansi
+        name: org
+        required: false
+        widget: string
+      - label: Periode
+        name: period
+        required: false
+        widget: string
+      - label: Deskripsi
+        name: description
+        required: false
+        widget: text
+      - field:
+          label: Poin
+          name: poin
+          widget: text
+        label: Poin-poin
+        name: points
+        required: false
+        widget: list
+      - label: Link
+        name: link
+        required: false
+        widget: string
+      label: Proyek
+      name: projects
+      summary: '{{fields.title}}'
+      widget: list
+    - fields:
+      - label: Judul
+        name: title
+        widget: string
+      - label: Peran / Instansi
+        name: org
+        required: false
+        widget: string
+      - label: Periode
+        name: period
+        required: false
+        widget: string
+      - label: Deskripsi
+        name: description
+        required: false
+        widget: text
+      - field:
+          label: Poin
+          name: poin
+          widget: text
+        label: Poin-poin
+        name: points
+        required: false
+        widget: list
+      - label: Link
+        name: link
+        required: false
+        widget: string
+      label: Penghargaan
+      name: awards
+      summary: '{{fields.title}}'
+      widget: list
+    - fields:
+      - label: Judul
+        name: title
+        widget: string
+      - label: Peran / Instansi
+        name: org
+        required: false
+        widget: string
+      - label: Periode
+        name: period
+        required: false
+        widget: string
+      - label: Deskripsi
+        name: description
+        required: false
+        widget: text
+      - field:
+          label: Poin
+          name: poin
+          widget: text
+        label: Poin-poin
+        name: points
+        required: false
+        widget: list
+      - label: Link
+        name: link
+        required: false
+        widget: string
+      label: Pengalaman kerja dan akademik
+      name: experience
+      summary: '{{fields.title}}'
+      widget: list
+    - fields:
+      - label: Judul
+        name: title
+        widget: string
+      - label: Peran / Instansi
+        name: org
+        required: false
+        widget: string
+      - label: Periode
+        name: period
+        required: false
+        widget: string
+      - label: Deskripsi
+        name: description
+        required: false
+        widget: text
+      - field:
+          label: Poin
+          name: poin
+          widget: text
+        label: Poin-poin
+        name: points
+        required: false
+        widget: list
+      - label: Link
+        name: link
+        required: false
+        widget: string
+      label: Kepemimpinan dan organisasi
+      name: leadership
+      summary: '{{fields.title}}'
+      widget: list
+    - fields:
+      - label: Judul
+        name: title
+        widget: string
+      - label: Peran / Instansi
+        name: org
+        required: false
+        widget: string
+      - label: Periode
+        name: period
+        required: false
+        widget: string
+      - label: Deskripsi
+        name: description
+        required: false
+        widget: text
+      - field:
+          label: Poin
+          name: poin
+          widget: text
+        label: Poin-poin
+        name: points
+        required: false
+        widget: list
+      - label: Link
+        name: link
+        required: false
+        widget: string
+      label: Pendidikan
+      name: education
+      summary: '{{fields.title}}'
+      widget: list
+    - fields:
+      - label: Kelompok
+        name: group
+        widget: string
+      - field:
+          label: Keterampilan
+          name: item
+          widget: string
+        label: Daftar keterampilan
+        name: items
+        widget: list
+      label: Keterampilan
+      name: skills
+      summary: '{{fields.group}}'
+      widget: list
+    file: content/site.json
+    format: json
+    label: Isi Portofolio
+    name: site
+  label: Portofolio
+  name: portofolio
+locale: id
+media_folder: assets/uploads
+public_folder: /assets/uploads
