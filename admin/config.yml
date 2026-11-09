@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: USERNAME/NAMA-REPO   # ganti dengan repo GitHub kamu
+     repo: Obt44/portobit   # ganti dengan repo GitHub kamu
   branch: main
 
 media_folder: assets/uploads
