@@ -1,0 +1,130 @@
+{
+  "name": "Muhammad Azka Robith Ramadhani",
+  "headline": "Fresh graduate Sistem Informasi | Project Management & Software Development",
+  "location": "Trenggalek, Jawa Timur",
+  "email": "obithgames@gmail.com",
+  "github": "",
+  "linkedin": "",
+  "photo": "",
+  "summary": "Fresh graduate S1 Sistem Informasi Universitas Nahdlatul Ulama Surabaya dengan minat pada teknologi informasi. Memiliki pengalaman sebagai Asisten Dosen pada mata kuliah Manajemen Proyek Sistem Informasi serta Analisis dan Perancangan Sistem Informasi. Terlibat dalam pengembangan sistem informasi keuangan, website profil perusahaan, dan sistem informasi lahan vanili sebagai programmer/developer. Memiliki pengalaman kepemimpinan sebagai Wakil Ketua Pesantren Luhur Al Husna Surabaya, termasuk koordinasi pengurus, perencanaan kegiatan, pengelolaan administrasi, serta komunikasi dengan pihak eksternal. Meraih penghargaan Project Manager Terbaik Pilihan Klien dalam tugas akhir mata kuliah Manajemen Proyek Sistem Informasi.",
+  "projects": [
+    {
+      "title": "Sistem Informasi Keuangan Madrasah Ibtidaiyah Al Hidayah, Gresik",
+      "org": "Programmer / Developer",
+      "period": "",
+      "description": "Terlibat dalam pengembangan sistem informasi keuangan madrasah yang mencakup pengelolaan informasi pembayaran SPP dan tabungan.",
+      "points": [],
+      "link": ""
+    },
+    {
+      "title": "Website Profil Perusahaan, PT Naraya Satya Utama Teknologi",
+      "org": "Programmer / Developer",
+      "period": "",
+      "description": "Terlibat dalam pengembangan website profil perusahaan sebagai bagian dari proyek magang Software Engineer.",
+      "points": [],
+      "link": ""
+    },
+    {
+      "title": "Sistem Informasi Lahan Vanili, PT Natatech",
+      "org": "Programmer / Developer",
+      "period": "",
+      "description": "Terlibat dalam pengembangan sistem informasi untuk monitoring dan pencatatan informasi lahan vanili.",
+      "points": ["Mendukung penyajian informasi melalui dashboard sistem."],
+      "link": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Project Manager Terbaik Pilihan Klien",
+      "org": "Tugas Akhir Mata Kuliah Manajemen Proyek Sistem Informasi (MPSI)",
+      "period": "",
+      "description": "Terpilih sebagai Project Manager terbaik oleh klien dalam proyek akademik yang melibatkan tiga mahasiswa dengan peran Project Manager.",
+      "points": ["Mendapatkan pengakuan atas kontribusi dalam penyampaian ide, saran, pembahasan sprint, dan pengembangan produk akhir berdasarkan penilaian klien."],
+      "link": ""
+    },
+    {
+      "title": "Nominasi Kerja Sama Kelompok Terbaik",
+      "org": "Information System Fest, Proyek Akhir Mata Kuliah Pemrograman Berbasis",
+      "period": "",
+      "description": "",
+      "points": [],
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Asisten Dosen, Manajemen Proyek Sistem Informasi (MPSI)",
+      "org": "Program Studi S1 Sistem Informasi",
+      "period": "Tahun ajaran 2024–2025",
+      "description": "",
+      "points": [
+        "Berdiskusi dengan dosen dan sesama asisten dosen untuk membahas strategi pembelajaran yang efektif.",
+        "Membantu penyusunan modul ajar dan pelaksanaan kegiatan praktikum.",
+        "Membantu proses koreksi dan penilaian kuis serta ujian."
+      ],
+      "link": ""
+    },
+    {
+      "title": "Asisten Dosen, Analisis dan Perancangan Sistem Informasi (APSI)",
+      "org": "Program Studi S1 Sistem Informasi",
+      "period": "Tahun ajaran 2024–2025 dan 2025–2026",
+      "description": "",
+      "points": [
+        "Berkolaborasi dengan dosen dan sesama asisten dosen dalam membahas strategi pembelajaran.",
+        "Membantu penyusunan modul ajar, pelaksanaan praktikum, serta koreksi dan penilaian kuis maupun ujian."
+      ],
+      "link": ""
+    },
+    {
+      "title": "Software Engineer Intern",
+      "org": "PT Naraya Satya Utama Teknologi",
+      "period": "",
+      "description": "",
+      "points": ["Terlibat sebagai programmer/developer dalam proyek pengembangan website profil perusahaan."],
+      "link": ""
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Wakil Ketua",
+      "org": "Pesantren Luhur Al Husna Surabaya",
+      "period": "2024–2025",
+      "description": "",
+      "points": [
+        "Mengoordinasikan pengurus dan anggota dalam pelaksanaan kegiatan organisasi.",
+        "Membantu merencanakan kegiatan, membagi tugas, dan memantau pelaksanaannya.",
+        "Menjadi penghubung antara pengurus dengan ketua atau pengasuh pesantren.",
+        "Membantu menangani permasalahan dan konflik dalam lingkungan organisasi.",
+        "Mengelola administrasi, laporan, serta kebutuhan dan anggaran kegiatan.",
+        "Membantu proses pendaftaran santri melalui penyusunan Google Forms, pengelolaan data pada spreadsheet, dan pengarsipan berkas informasi santri.",
+        "Mendukung koordinasi dengan pihak eksternal melalui penyampaian proposal kegiatan Idul Adha kepada instansi dan organisasi di Surabaya, termasuk Polres Jawa Timur, Polrestabes Surabaya, dan organisasi Islam setempat."
+      ],
+      "link": ""
+    },
+    {
+      "title": "Divisi Pengembangan dan Wirausaha",
+      "org": "UKM Cyber and Security UNUSA",
+      "period": "",
+      "description": "",
+      "points": [],
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "title": "Sarjana Sistem Informasi (S1)",
+      "org": "Universitas Nahdlatul Ulama Surabaya",
+      "period": "2026",
+      "description": "",
+      "points": [],
+      "link": ""
+    }
+  ],
+  "skills": [
+    {"group": "Project Management", "items": ["Jira (tugas dan proyek kuliah)"]},
+    {"group": "Administrasi dan Pengelolaan Data", "items": ["Google Forms", "Spreadsheet", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"]},
+    {"group": "Pengembangan Perangkat Lunak", "items": ["Visual Studio Code", "Google Antigravity", "Claude Code"]},
+    {"group": "Analisis, Perancangan, dan Desain", "items": ["Figma", "draw.io", "Canva"]},
+    {"group": "Kompetensi", "items": ["Koordinasi Tim", "Perencanaan Kegiatan", "Pembagian Tugas", "Pemantauan Pelaksanaan", "Administrasi dan Pelaporan", "Pengelolaan Data", "Komunikasi dengan Pihak Eksternal", "Pengembangan Sistem Informasi"]}
+  ]
+}
